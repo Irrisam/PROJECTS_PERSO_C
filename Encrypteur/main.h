@@ -5,6 +5,7 @@
 #include <stdlib.h>
 #include <string.h>
 
-int encrypter(int ac, char **av);
+int encrypter(int, char **);
+int code_asci(char* string);
 
 #endif
